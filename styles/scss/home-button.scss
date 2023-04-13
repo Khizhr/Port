@@ -1,0 +1,65 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23rem;
+}.home-button-i2U {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: solid 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 3.6rem 2rem 2rem 2rem;
+  position: relative;
+
+  .property-1home-3aY {
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.0799999982);
+    flex-shrink: 0;
+    margin-bottom: 15.8rem;
+    height: 5.9rem;
+    display: flex;
+    font-size: 3.2rem;
+    white-space: nowrap;
+    width: 100%;
+    line-height: 1.825;
+    font-family: Martel Sans, 'Source Sans Pro';
+    border-radius: 2rem;
+    box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    font-weight: 400;
+    color: #000000;
+    justify-content: center;
+  }
+  .property-1variant2-Wyv {
+    background-color: rgba(0, 0, 0, 0.0799999982);
+    border-radius: 2rem;
+    width: 100%;
+    height: 5.9rem;
+    flex-shrink: 0;
+    color: #000000;
+    font-family: Martel Sans, 'Source Sans Pro';
+    justify-content: center;
+    font-size: 3.2rem;
+    line-height: 1.825;
+    white-space: nowrap;
+    box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+  }
+}

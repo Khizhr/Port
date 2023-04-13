@@ -1,0 +1,65 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23rem;
+}.hobbies-button-XRr {
+  border: solid 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-direction: column;
+  padding: 3.6rem 2rem 2rem 2rem;
+  align-items: center;
+  display: flex;
+
+  .property-1home-qxL {
+    display: flex;
+    justify-content: center;
+    line-height: 1.825;
+    box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+    width: 100%;
+    cursor: pointer;
+    color: #000000;
+    border-radius: 2rem;
+    flex-shrink: 0;
+    margin-bottom: 15.8rem;
+    font-size: 3.2rem;
+    white-space: nowrap;
+    background-color: rgba(0, 0, 0, 0.0799999982);
+    align-items: center;
+    font-family: Martel Sans, 'Source Sans Pro';
+    height: 5.9rem;
+    font-weight: 400;
+  }
+  .property-1variant2-JL8 {
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.0799999982);
+    align-items: center;
+    font-size: 3.2rem;
+    font-weight: 400;
+    font-family: Martel Sans, 'Source Sans Pro';
+    color: #000000;
+    box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+    height: 5.9rem;
+    line-height: 1.825;
+    white-space: nowrap;
+    border-radius: 2rem;
+  }
+}
